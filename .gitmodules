@@ -142,10 +142,6 @@
 	path = InsightsWeather
 	url = git@github.ibm.com:Bluemix-Docs/InsightsWeather.git
 	branch = master
-[submodule "InstrumentAnalysis"]
-	path = InstrumentAnalysis
-	url = git@github.ibm.com:Bluemix-Docs/InstrumentAnalysis.git
-	branch = master
 [submodule "IntegrationTesting"]
 	path = IntegrationTesting
 	url = git@github.ibm.com:Bluemix-Docs/IntegrationTesting.git
@@ -365,4 +361,8 @@
 [submodule "IotElectronics"]
 	path = IotElectronics
 	url = git@github.ibm.com:Bluemix-Docs/IotElectronics.git
+	branch = master
+[submodule "InstrumentAnalytics"]
+	path = InstrumentAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/InstrumentAnalytics.git
 	branch = master
