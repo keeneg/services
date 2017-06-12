@@ -362,3 +362,7 @@
 	path = zOSasaService
 	url = git@github.ibm.com:Bluemix-Docs/zOSasaService.git
 	branch = master
+[submodule "IotElectronics"]
+	path = IotElectronics
+	url = git@github.ibm.com:Bluemix-Docs/IotElectronics.git
+	branch = master
