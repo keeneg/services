@@ -238,10 +238,6 @@
 	path = personality-insights
 	url = git@github.ibm.com:Bluemix-Docs/personality-insights.git
 	branch = master
-[submodule "PredictiveMarketScenario"]
-	path = PredictiveMarketScenario
-	url = git@github.ibm.com:Bluemix-Docs/PredictiveMarketScenario.git
-	branch = master
 [submodule "probablisticmatch"]
 	path = probablisticmatch
 	url = git@github.ibm.com:Bluemix-Docs/probablisticmatch.git
@@ -365,4 +361,8 @@
 [submodule "InstrumentAnalytics"]
 	path = InstrumentAnalytics
 	url = git@github.ibm.com:Bluemix-Docs/InstrumentAnalytics.git
+	branch = master
+[submodule "PredictiveMarketScenarios"]
+	path = PredictiveMarketScenarios
+	url = git@github.ibm.com:Bluemix-Docs/PredictiveMarketScenarios.git
 	branch = master
