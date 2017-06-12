@@ -18,10 +18,6 @@
 	path = BlockStorage
 	url = git@github.ibm.com:Bluemix-Docs/BlockStorage.git
 	branch = master
-[submodule "certificatemanagement"]
-	path = certificatemanagement
-	url = git@github.ibm.com:Bluemix-Docs/certificatemanagement.git
-	branch = master
 [submodule "Cloudant"]
 	path = Cloudant
 	url = git@github.ibm.com:Bluemix-Docs/Cloudant.git
@@ -29,10 +25,6 @@
 [submodule "CloudAutomationManager"]
 	path = CloudAutomationManager
 	url = git@github.ibm.com:Bluemix-Docs/CloudAutomationManager.git
-	branch = master
-[submodule "CloudLogAnalysis"]
-	path = CloudLogAnalysis
-	url = git@github.ibm.com:Bluemix-Docs/CloudLogAnalysis.git
 	branch = master
 [submodule "ComposeEnterprise"]
 	path = ComposeEnterprise
@@ -98,18 +90,6 @@
 	path = DevOpsInsights
 	url = git@github.ibm.com:Bluemix-Docs/DevOpsInsights.git
 	branch = master
-[submodule "dialog"]
-	path = dialog
-	url = git@github.ibm.com:Bluemix-Docs/dialog.git
-	branch = master
-[submodule "discovery"]
-	path = discovery
-	url = git@github.ibm.com:Bluemix-Docs/discovery.git
-	branch = master
-[submodule "document-conversion"]
-	path = document-conversion
-	url = git@github.ibm.com:Bluemix-Docs/document-conversion.git
-	branch = master
 [submodule "geospatial"]
 	path = geospatial
 	url = git@github.ibm.com:Bluemix-Docs/geospatial.git
@@ -142,14 +122,6 @@
 	path = InsightsWeather
 	url = git@github.ibm.com:Bluemix-Docs/InsightsWeather.git
 	branch = master
-[submodule "IntegrationTesting"]
-	path = IntegrationTesting
-	url = git@github.ibm.com:Bluemix-Docs/IntegrationTesting.git
-	branch = master
-[submodule "interactivemaps"]
-	path = interactivemaps
-	url = git@github.ibm.com:Bluemix-Docs/interactivemaps.git
-	branch = master
 [submodule "InvestmentPortfolio"]
 	path = InvestmentPortfolio
 	url = git@github.ibm.com:Bluemix-Docs/InvestmentPortfolio.git
@@ -178,10 +150,6 @@
 	path = iotrtinsights
 	url = git@github.ibm.com:Bluemix-Docs/iotrtinsights.git
 	branch = master
-[submodule "knowledge-studio"]
-	path = knowledge-studio
-	url = git@github.ibm.com:Bluemix-Docs/knowledge-studio.git
-	branch = master
 [submodule "language-translator"]
 	path = language-translator
 	url = git@github.ibm.com:Bluemix-Docs/language-translator.git
@@ -206,14 +174,6 @@
 	path = MobileQualityAssurance
 	url = git@github.ibm.com:Bluemix-Docs/MobileQualityAssurance.git
 	branch = master
-[submodule "MongoDB"]
-	path = MongoDB
-	url = git@github.ibm.com:Bluemix-Docs/MongoDB.git
-	branch = master
-[submodule "MySQL"]
-	path = MySQL
-	url = git@github.ibm.com:Bluemix-Docs/MySQL.git
-	branch = master
 [submodule "natural-language-classifier"]
 	path = natural-language-classifier
 	url = git@github.ibm.com:Bluemix-Docs/natural-language-classifier.git
@@ -226,14 +186,6 @@
 	path = ObjectStorage
 	url = git@github.ibm.com:Bluemix-Docs/ObjectStorage.git
 	branch = master
-[submodule "ObjectStorageDedicated"]
-	path = ObjectStorageDedicated
-	url = git@github.ibm.com:Bluemix-Docs/ObjectStorageDedicated.git
-	branch = master
-[submodule "PatternEngine"]
-	path = PatternEngine
-	url = git@github.ibm.com:Bluemix-Docs/PatternEngine.git
-	branch = master
 [submodule "personality-insights"]
 	path = personality-insights
 	url = git@github.ibm.com:Bluemix-Docs/personality-insights.git
@@ -241,26 +193,6 @@
 [submodule "product-insights"]
 	path = product-insights
 	url = git@github.ibm.com:Bluemix-Docs/product-insights.git
-	branch = master
-[submodule "RabbitMQ"]
-	path = RabbitMQ
-	url = git@github.ibm.com:Bluemix-Docs/RabbitMQ.git
-	branch = master
-[submodule "Redis"]
-	path = Redis
-	url = git@github.ibm.com:Bluemix-Docs/Redis.git
-	branch = master
-[submodule "RedisForChina"]
-	path = RedisForChina
-	url = git@github.ibm.com:Bluemix-Docs/RedisForChina.git
-	branch = master
-[submodule "Registry"]
-	path = Registry
-	url = git@github.ibm.com:Bluemix-Docs/Registry.git
-	branch = master
-[submodule "retrieve-and-rank"]
-	path = retrieve-and-rank
-	url = git@github.ibm.com:Bluemix-Docs/retrieve-and-rank.git
 	branch = master
 [submodule "schematics"]
 	path = schematics
@@ -278,17 +210,9 @@
 	path = SimulatedInstrumentAnalytics
 	url = git@github.ibm.com:Bluemix-Docs/SimulatedInstrumentAnalytics.git
 	branch = master
-[submodule "speech-to-text"]
-	path = speech-to-text
-	url = git@github.ibm.com:Bluemix-Docs/speech-to-text.git
-	branch = master
 [submodule "StreamingAnalytics"]
 	path = StreamingAnalytics
 	url = git@github.ibm.com:Bluemix-Docs/StreamingAnalytics.git
-	branch = master
-[submodule "text-to-speech"]
-	path = text-to-speech
-	url = git@github.ibm.com:Bluemix-Docs/text-to-speech.git
 	branch = master
 [submodule "tone-analyzer"]
 	path = tone-analyzer
@@ -297,10 +221,6 @@
 [submodule "TrackPlan"]
 	path = TrackPlan
 	url = git@github.ibm.com:Bluemix-Docs/TrackPlan.git
-	branch = master
-[submodule "tradeoff-analytics"]
-	path = tradeoff-analytics
-	url = git@github.ibm.com:Bluemix-Docs/tradeoff-analytics.git
 	branch = master
 [submodule "Twitter"]
 	path = Twitter
@@ -318,37 +238,17 @@
 	path = va
 	url = git@github.ibm.com:Bluemix-Docs/va.git
 	branch = master
-[submodule "virtual-agent"]
-	path = virtual-agent
-	url = git@github.ibm.com:Bluemix-Docs/virtual-agent.git
-	branch = master
-[submodule "visual-recognition"]
-	path = visual-recognition
-	url = git@github.ibm.com:Bluemix-Docs/visual-recognition.git
-	branch = master
 [submodule "visual-recognition-dedicated"]
 	path = visual-recognition-dedicated
 	url = git@github.ibm.com:Bluemix-Docs/visual-recognition-dedicated.git
-	branch = master
-[submodule "vmwaresolutions"]
-	path = vmwaresolutions
-	url = git@github.ibm.com:Bluemix-Docs/vmwaresolutions.git
 	branch = master
 [submodule "vpn"]
 	path = vpn
 	url = git@github.ibm.com:Bluemix-Docs/vpn.git
 	branch = master
-[submodule "was-vpc"]
-	path = was-vpc
-	url = git@github.ibm.com:Bluemix-Docs/was-vpc.git
-	branch = master
 [submodule "Weather"]
 	path = Weather
 	url = git@github.ibm.com:Bluemix-Docs/Weather.git
-	branch = master
-[submodule "zOSasaService"]
-	path = zOSasaService
-	url = git@github.ibm.com:Bluemix-Docs/zOSasaService.git
 	branch = master
 [submodule "IotElectronics"]
 	path = IotElectronics
