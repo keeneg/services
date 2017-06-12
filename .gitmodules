@@ -266,3 +266,11 @@
 	path = probabilisticmatch
 	url = git@github.ibm.com:Bluemix-Docs/probabilisticmatch.git
 	branch = master
+[submodule "ecschecker"]
+	path = ecschecker
+	url = git@github.ibm.com:Bluemix-Docs/ecschecker.git
+	branch = master
+[submodule "ecsdashboard"]
+	path = ecsdashboard
+	url = git@github.ibm.com:Bluemix-Docs/ecsdashboard.git
+	branch = master
