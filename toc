@@ -1,0 +1,13 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="bluemix-services" audience="platform" href="/docs/services/index.html"}
+Bluemix services
+
+	{: .navgroup id="learn"}
+	services_region.md
+	index.md
+	services_availability.md
+	service_deprecation.md
+	service_credentials.md
+	{: .navgroup-end}
