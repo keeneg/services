@@ -14,10 +14,10 @@ lastupdated: "2017-04-11"
 # Support for services
 {: #services}
 
-Multiple levels of support are provided for {{site.data.keyword.Bluemix_notm}} services. 
+{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services and apps. You can focus on your application logic and application design.
 {:shortdesc}
 
-The following table describes the general support information for {{site.data.keyword.Bluemix_notm}} services:
+Multiple levels of support are provided for {{site.data.keyword.Bluemix_notm}} services. The following table describes the general support information for {{site.data.keyword.Bluemix_notm}} services:
 
 |Type	|Description	|Support details|
 |:------|:--------------|:--------------|

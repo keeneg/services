@@ -9,5 +9,4 @@ Bluemix services
 	index.md
 	services_availability.md
 	service_deprecation.md
-	service_credentials.md
 	{: .navgroup-end}

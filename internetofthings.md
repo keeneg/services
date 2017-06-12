@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016
-lastupdated: "2016-10-31"
+lastupdated: "2016-11-03"
 
 ---
 
@@ -11,6 +11,3 @@ lastupdated: "2016-10-31"
 
 Use these services to rapidly build and extend applications that take advantage of data and analytics from your connected devices and sensors.
 {: shortdesc}
-
-
-

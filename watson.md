@@ -6,7 +6,6 @@ lastupdated: "2016-10-31"
 
 ---
 
-
 {:shortdesc: .shortdesc} 
 
 # Watson
