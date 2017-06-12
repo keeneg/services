@@ -1,0 +1,368 @@
+[submodule "appid"]
+	path = appid
+	url = git@github.ibm.com:Bluemix-Docs/appid.git
+	branch = master
+[submodule "ApplicationServeronCloud"]
+	path = ApplicationServeronCloud
+	url = git@github.ibm.com:Bluemix-Docs/ApplicationServeronCloud.git
+	branch = master
+[submodule "Auto-Scaling"]
+	path = Auto-Scaling
+	url = git@github.ibm.com:Bluemix-Docs/Auto-Scaling.git
+	branch = master
+[submodule "blockchain"]
+	path = blockchain
+	url = git@github.ibm.com:Bluemix-Docs/blockchain.git
+	branch = master
+[submodule "BlockStorage"]
+	path = BlockStorage
+	url = git@github.ibm.com:Bluemix-Docs/BlockStorage.git
+	branch = master
+[submodule "certificatemanagement"]
+	path = certificatemanagement
+	url = git@github.ibm.com:Bluemix-Docs/certificatemanagement.git
+	branch = master
+[submodule "Cloudant"]
+	path = Cloudant
+	url = git@github.ibm.com:Bluemix-Docs/Cloudant.git
+	branch = master
+[submodule "CloudAutomationManager"]
+	path = CloudAutomationManager
+	url = git@github.ibm.com:Bluemix-Docs/CloudAutomationManager.git
+	branch = master
+[submodule "CloudLogAnalysis"]
+	path = CloudLogAnalysis
+	url = git@github.ibm.com:Bluemix-Docs/CloudLogAnalysis.git
+	branch = master
+[submodule "ComposeEnterprise"]
+	path = ComposeEnterprise
+	url = git@github.ibm.com:Bluemix-Docs/ComposeEnterprise.git
+	branch = master
+[submodule "ComposeForElasticsearch"]
+	path = ComposeForElasticsearch
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForElasticsearch.git
+	branch = master
+[submodule "ComposeForEtcd"]
+	path = ComposeForEtcd
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForEtcd.git
+	branch = master
+[submodule "ComposeForMongoDB"]
+	path = ComposeForMongoDB
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForMongoDB.git
+	branch = master
+[submodule "ComposeForMySQL"]
+	path = ComposeForMySQL
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForMySQL.git
+	branch = master
+[submodule "ComposeForPostgreSQL"]
+	path = ComposeForPostgreSQL
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForPostgreSQL.git
+	branch = master
+[submodule "ComposeForRabbitMQ"]
+	path = ComposeForRabbitMQ
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForRabbitMQ.git
+	branch = master
+[submodule "ComposeForRedis"]
+	path = ComposeForRedis
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForRedis.git
+	branch = master
+[submodule "ComposeForRethinkDB"]
+	path = ComposeForRethinkDB
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForRethinkDB.git
+	branch = master
+[submodule "ComposeForScyllaDB"]
+	path = ComposeForScyllaDB
+	url = git@github.ibm.com:Bluemix-Docs/ComposeForScyllaDB.git
+	branch = master
+[submodule "ContinuousDelivery"]
+	path = ContinuousDelivery
+	url = git@github.ibm.com:Bluemix-Docs/ContinuousDelivery.git
+	branch = master
+[submodule "conversation"]
+	path = conversation
+	url = git@github.ibm.com:Bluemix-Docs/conversation.git
+	branch = master
+[submodule "dashDB"]
+	path = dashDB
+	url = git@github.ibm.com:Bluemix-Docs/dashDB.git
+	branch = master
+[submodule "DeliveryPipeline"]
+	path = DeliveryPipeline
+	url = git@github.ibm.com:Bluemix-Docs/DeliveryPipeline.git
+	branch = master
+[submodule "DeploymentRiskAnalytics"]
+	path = DeploymentRiskAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/DeploymentRiskAnalytics.git
+	branch = master
+[submodule "DevOpsInsights"]
+	path = DevOpsInsights
+	url = git@github.ibm.com:Bluemix-Docs/DevOpsInsights.git
+	branch = master
+[submodule "dialog"]
+	path = dialog
+	url = git@github.ibm.com:Bluemix-Docs/dialog.git
+	branch = master
+[submodule "discovery"]
+	path = discovery
+	url = git@github.ibm.com:Bluemix-Docs/discovery.git
+	branch = master
+[submodule "document-conversion"]
+	path = document-conversion
+	url = git@github.ibm.com:Bluemix-Docs/document-conversion.git
+	branch = master
+[submodule "geospatial"]
+	path = geospatial
+	url = git@github.ibm.com:Bluemix-Docs/geospatial.git
+	branch = master
+[submodule "ghededicated"]
+	path = ghededicated
+	url = git@github.ibm.com:Bluemix-Docs/ghededicated.git
+	branch = master
+[submodule "GlobalizationPipeline"]
+	path = GlobalizationPipeline
+	url = git@github.ibm.com:Bluemix-Docs/GlobalizationPipeline.git
+	branch = master
+[submodule "graphdb"]
+	path = graphdb
+	url = git@github.ibm.com:Bluemix-Docs/graphdb.git
+	branch = master
+[submodule "HistoricalInstrumentAnalytics"]
+	path = HistoricalInstrumentAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/HistoricalInstrumentAnalytics.git
+	branch = master
+[submodule "hybridconnect"]
+	path = hybridconnect
+	url = git@github.ibm.com:Bluemix-Docs/hybridconnect.git
+	branch = master
+[submodule "identitymixer"]
+	path = identitymixer
+	url = git@github.ibm.com:Bluemix-Docs/identitymixer.git
+	branch = master
+[submodule "InsightsWeather"]
+	path = InsightsWeather
+	url = git@github.ibm.com:Bluemix-Docs/InsightsWeather.git
+	branch = master
+[submodule "InstrumentAnalysis"]
+	path = InstrumentAnalysis
+	url = git@github.ibm.com:Bluemix-Docs/InstrumentAnalysis.git
+	branch = master
+[submodule "IntegrationTesting"]
+	path = IntegrationTesting
+	url = git@github.ibm.com:Bluemix-Docs/IntegrationTesting.git
+	branch = master
+[submodule "interactivemaps"]
+	path = interactivemaps
+	url = git@github.ibm.com:Bluemix-Docs/interactivemaps.git
+	branch = master
+[submodule "InvestmentPortfolio"]
+	path = InvestmentPortfolio
+	url = git@github.ibm.com:Bluemix-Docs/InvestmentPortfolio.git
+	branch = master
+[submodule "IoT"]
+	path = IoT
+	url = git@github.ibm.com:Bluemix-Docs/IoT.git
+	branch = master
+[submodule "IoTAutomotive"]
+	path = IoTAutomotive
+	url = git@github.ibm.com:Bluemix-Docs/IoTAutomotive.git
+	branch = master
+[submodule "IotDriverInsights"]
+	path = IotDriverInsights
+	url = git@github.ibm.com:Bluemix-Docs/IotDriverInsights.git
+	branch = master
+[submodule "IotElectronices"]
+	path = IotElectronices
+	url = git@github.ibm.com:Bluemix-Docs/IotElectronices.git
+	branch = master
+[submodule "IotInsurance"]
+	path = IotInsurance
+	url = git@github.ibm.com:Bluemix-Docs/IotInsurance.git
+	branch = master
+[submodule "IotMapInsights"]
+	path = IotMapInsights
+	url = git@github.ibm.com:Bluemix-Docs/IotMapInsights.git
+	branch = master
+[submodule "iotrtinsights"]
+	path = iotrtinsights
+	url = git@github.ibm.com:Bluemix-Docs/iotrtinsights.git
+	branch = master
+[submodule "knowledge-studio"]
+	path = knowledge-studio
+	url = git@github.ibm.com:Bluemix-Docs/knowledge-studio.git
+	branch = master
+[submodule "language-translator"]
+	path = language-translator
+	url = git@github.ibm.com:Bluemix-Docs/language-translator.git
+	branch = master
+[submodule "mobileaccess"]
+	path = mobileaccess
+	url = git@github.ibm.com:Bluemix-Docs/mobileaccess.git
+	branch = master
+[submodule "mobileanalytics"]
+	path = mobileanalytics
+	url = git@github.ibm.com:Bluemix-Docs/mobileanalytics.git
+	branch = master
+[submodule "mobilefoundation"]
+	path = mobilefoundation
+	url = git@github.ibm.com:Bluemix-Docs/mobilefoundation.git
+	branch = master
+[submodule "mobilepush"]
+	path = mobilepush
+	url = git@github.ibm.com:Bluemix-Docs/mobilepush.git
+	branch = master
+[submodule "MobileQualityAssurance"]
+	path = MobileQualityAssurance
+	url = git@github.ibm.com:Bluemix-Docs/MobileQualityAssurance.git
+	branch = master
+[submodule "MongoDB"]
+	path = MongoDB
+	url = git@github.ibm.com:Bluemix-Docs/MongoDB.git
+	branch = master
+[submodule "MySQL"]
+	path = MySQL
+	url = git@github.ibm.com:Bluemix-Docs/MySQL.git
+	branch = master
+[submodule "natural-language-classifier"]
+	path = natural-language-classifier
+	url = git@github.ibm.com:Bluemix-Docs/natural-language-classifier.git
+	branch = master
+[submodule "NaturalLanguageUnderstanding"]
+	path = NaturalLanguageUnderstanding
+	url = git@github.ibm.com:Bluemix-Docs/NaturalLanguageUnderstanding.git
+	branch = master
+[submodule "ObjectStorage"]
+	path = ObjectStorage
+	url = git@github.ibm.com:Bluemix-Docs/ObjectStorage.git
+	branch = master
+[submodule "ObjectStorageDedicated"]
+	path = ObjectStorageDedicated
+	url = git@github.ibm.com:Bluemix-Docs/ObjectStorageDedicated.git
+	branch = master
+[submodule "PatternEngine"]
+	path = PatternEngine
+	url = git@github.ibm.com:Bluemix-Docs/PatternEngine.git
+	branch = master
+[submodule "personality-insights"]
+	path = personality-insights
+	url = git@github.ibm.com:Bluemix-Docs/personality-insights.git
+	branch = master
+[submodule "PredictiveMarketScenario"]
+	path = PredictiveMarketScenario
+	url = git@github.ibm.com:Bluemix-Docs/PredictiveMarketScenario.git
+	branch = master
+[submodule "probablisticmatch"]
+	path = probablisticmatch
+	url = git@github.ibm.com:Bluemix-Docs/probablisticmatch.git
+	branch = master
+[submodule "product-insights"]
+	path = product-insights
+	url = git@github.ibm.com:Bluemix-Docs/product-insights.git
+	branch = master
+[submodule "RabbitMQ"]
+	path = RabbitMQ
+	url = git@github.ibm.com:Bluemix-Docs/RabbitMQ.git
+	branch = master
+[submodule "Redis"]
+	path = Redis
+	url = git@github.ibm.com:Bluemix-Docs/Redis.git
+	branch = master
+[submodule "RedisForChina"]
+	path = RedisForChina
+	url = git@github.ibm.com:Bluemix-Docs/RedisForChina.git
+	branch = master
+[submodule "Registry"]
+	path = Registry
+	url = git@github.ibm.com:Bluemix-Docs/Registry.git
+	branch = master
+[submodule "retrieve-and-rank"]
+	path = retrieve-and-rank
+	url = git@github.ibm.com:Bluemix-Docs/retrieve-and-rank.git
+	branch = master
+[submodule "schematics"]
+	path = schematics
+	url = git@github.ibm.com:Bluemix-Docs/schematics.git
+	branch = master
+[submodule "SecureGateway"]
+	path = SecureGateway
+	url = git@github.ibm.com:Bluemix-Docs/SecureGateway.git
+	branch = master
+[submodule "SimulatedHistoricalInstrumentAnalytics"]
+	path = SimulatedHistoricalInstrumentAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/SimulatedHistoricalInstrumentAnalytics.git
+	branch = master
+[submodule "SimulatedInstrumentAnalytics"]
+	path = SimulatedInstrumentAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/SimulatedInstrumentAnalytics.git
+	branch = master
+[submodule "speech-to-text"]
+	path = speech-to-text
+	url = git@github.ibm.com:Bluemix-Docs/speech-to-text.git
+	branch = master
+[submodule "StreamingAnalytics"]
+	path = StreamingAnalytics
+	url = git@github.ibm.com:Bluemix-Docs/StreamingAnalytics.git
+	branch = master
+[submodule "text-to-speech"]
+	path = text-to-speech
+	url = git@github.ibm.com:Bluemix-Docs/text-to-speech.git
+	branch = master
+[submodule "tone-analyzer"]
+	path = tone-analyzer
+	url = git@github.ibm.com:Bluemix-Docs/tone-analyzer.git
+	branch = master
+[submodule "TrackPlan"]
+	path = TrackPlan
+	url = git@github.ibm.com:Bluemix-Docs/TrackPlan.git
+	branch = master
+[submodule "tradeoff-analytics"]
+	path = tradeoff-analytics
+	url = git@github.ibm.com:Bluemix-Docs/tradeoff-analytics.git
+	branch = master
+[submodule "Twitter"]
+	path = Twitter
+	url = git@github.ibm.com:Bluemix-Docs/Twitter.git
+	branch = master
+[submodule "UCCR"]
+	path = UCCR
+	url = git@github.ibm.com:Bluemix-Docs/UCCR.git
+	branch = master
+[submodule "ustream"]
+	path = ustream
+	url = git@github.ibm.com:Bluemix-Docs/ustream.git
+	branch = master
+[submodule "va"]
+	path = va
+	url = git@github.ibm.com:Bluemix-Docs/va.git
+	branch = master
+[submodule "virtual-agent"]
+	path = virtual-agent
+	url = git@github.ibm.com:Bluemix-Docs/virtual-agent.git
+	branch = master
+[submodule "visual-recognition"]
+	path = visual-recognition
+	url = git@github.ibm.com:Bluemix-Docs/visual-recognition.git
+	branch = master
+[submodule "visual-recognition-dedicated"]
+	path = visual-recognition-dedicated
+	url = git@github.ibm.com:Bluemix-Docs/visual-recognition-dedicated.git
+	branch = master
+[submodule "vmwaresolutions"]
+	path = vmwaresolutions
+	url = git@github.ibm.com:Bluemix-Docs/vmwaresolutions.git
+	branch = master
+[submodule "vpn"]
+	path = vpn
+	url = git@github.ibm.com:Bluemix-Docs/vpn.git
+	branch = master
+[submodule "was-vpc"]
+	path = was-vpc
+	url = git@github.ibm.com:Bluemix-Docs/was-vpc.git
+	branch = master
+[submodule "Weather"]
+	path = Weather
+	url = git@github.ibm.com:Bluemix-Docs/Weather.git
+	branch = master
+[submodule "zOSasaService"]
+	path = zOSasaService
+	url = git@github.ibm.com:Bluemix-Docs/zOSasaService.git
+	branch = master
