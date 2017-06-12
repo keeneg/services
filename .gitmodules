@@ -170,10 +170,6 @@
 	path = IotDriverInsights
 	url = git@github.ibm.com:Bluemix-Docs/IotDriverInsights.git
 	branch = master
-[submodule "IotElectronices"]
-	path = IotElectronices
-	url = git@github.ibm.com:Bluemix-Docs/IotElectronices.git
-	branch = master
 [submodule "IotInsurance"]
 	path = IotInsurance
 	url = git@github.ibm.com:Bluemix-Docs/IotInsurance.git
