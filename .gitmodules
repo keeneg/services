@@ -14,10 +14,6 @@
 	path = blockchain
 	url = git@github.ibm.com:Bluemix-Docs/blockchain.git
 	branch = master
-[submodule "BlockStorage"]
-	path = BlockStorage
-	url = git@github.ibm.com:Bluemix-Docs/BlockStorage.git
-	branch = master
 [submodule "Cloudant"]
 	path = Cloudant
 	url = git@github.ibm.com:Bluemix-Docs/Cloudant.git
