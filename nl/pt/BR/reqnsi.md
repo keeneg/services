@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -60,7 +60,7 @@ serviço geralmente disponível.	|Problemas que são determinados como sendo um 
 em um serviço beta fornecido pela IBM são suportados mas a IBM não é obrigada a
 fornecer uma correção. Além disso,
 o chamado de problema será designado como severidade 3 ou 4 onde aplicável. Para obter informações sobre severidade de chamados, consulte [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabela 1. Informações de suporte de serviços do Bluemix" caption-side="top"}
+{: caption="Tabela 1.  {{site.data.keyword.Bluemix_notm}} serviços de suporte" caption-side="top"}
 
 
 
@@ -333,10 +333,7 @@ Se você tiver uma instância de serviço criada e ligada a apps em uma região,
 deseja usar a instância de serviço. Para usar uma instância de serviço existente
 em uma outra região, conclua as etapas a seguir:
 
-      1. Alterne para a região em que a instância de serviço existe. Na barra de
-menus do {{site.data.keyword.Bluemix_notm}}, expanda
-**Região** ou clique no ícone **Região** e, em
-seguida, selecione a região na qual a instância de serviço existe.
+      1. Alterne para a região em que a instância de serviço existe. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região na qual a instância de serviço existe.
 
       2. Recupere as credenciais e os parâmetros de conexão da variável de ambiente VCAP_SERVICES da instância de serviço na região na qual o serviço existe. Conclua
 as etapas a seguir:
@@ -347,9 +344,7 @@ ambiente**. Os detalhes da variável de ambiente *VCAP_SERVICES* são exibidos. 
 instância de serviço.
 
       3. Alterne para a região em que você deseja usar a instância de
-serviço. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda
-**Região** ou clique no ícone **Região** e, em
-seguida, selecione a região na qual você deseja usar a instância de serviço.
+serviço. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região na qual você deseja usar a instância de serviço.
 
       4. Crie uma instância de serviço fornecida pelo usuário usando as credenciais
 e os parâmetros de conexão que você registrou a partir da variável de ambiente
@@ -386,12 +381,3 @@ de serviço usando o console da instância de serviço.
 clique em **Autorização de acesso de serviço** na área de janela de
 navegação e, em seguida, use **Revogar** para remover a
 ligação de serviço.
-
-# rellinks
-{: #rellinks}
-
-## gerais
-{: #general}
-
-* [Ligando um serviço usando a interface com o usuário do {{site.data.keyword.Bluemix_notm}}](/docs/cfapps/ee.html#ee_bindui)
-* [Recuperando VCAP_SERVICES](/docs/cli/vcapsvc.html#retrieving)

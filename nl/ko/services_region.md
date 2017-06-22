@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # 지역별 서비스
 {: #services_region}
 
+{{site.data.keyword.Bluemix}}에서는 서비스 및 앱을 손쉽게 구현, 호스팅 및 스케일링할 수 있습니다. 애플리케이션 로직 및 애플리케이션 디자인에 집중할 수 있습니다.
+{:shortdesc}
+
 모든 {{site.data.keyword.Bluemix_notm}} 지역에서 모든 서비스를 구매할 수 있는 것은 아닙니다. 해당 지역에서 서비스를 구매할 수 있는 경우에도 서비스는 다른 위치에서 호스팅될 수 있습니다. 다음 표는 IBM에서 제공하는 서비스를 보여줍니다. 
 
 
@@ -63,7 +66,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.GlobalizationPipeline_short}}	| 댈러스, 미국에서 호스팅됨	| 런던, 영국에서 호스팅됨	| 시드니, 호주에서 호스팅됨 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.dataworks_short}} | 댈러스, 미국에서 호스팅됨 | 런던, 영국에서 호스팅됨 | 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.openwhisk}} | 댈러스, 미국에서 호스팅됨 | 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 |
-|{{site.data.keyword.containerlong}} | 댈러스, 미국에서 호스팅됨 | 런던, 영국에서 호스팅됨 | 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 |
+|{{site.data.keyword.containerlong}} | 댈러스, 미국에서 호스팅됨 | 런던, 영국에서 호스팅됨 | 지역에서 사용할 수 없음 | 프랑크푸르트, 독일에서 호스팅됨 |
 |{{site.data.keyword.datastagefull}}		|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨		|시드니, 호주에서 호스팅됨 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.graphshort}}       |댈러스, 미국에서 호스팅됨		|댈러스, 미국에서 호스팅됨		|지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.mdmcloudfull}}		|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨		|시드니, 호주에서 호스팅됨 | 프랑크푸르트, 독일에서 호스팅됨 |
@@ -98,6 +101,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.personalityinsightsshort}}	|휴스턴, 미국에서 호스팅됨		|휴스턴, 미국에서 호스팅됨		|휴스턴, 미국에서 호스팅됨 | 프랑크푸르트, 독일에서 호스팅됨 |
 |{{site.data.keyword.mobilepushshort}}				|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨			|시드니, 호주에서 호스팅됨 | 프랑크푸르트, 독일에서 호스팅됨 |
 |{{site.data.keyword.runbook_short}}				|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨			|시드니, 호주에서 호스팅됨 | 지역에서 사용할 수 없음 |
+|{{site.data.keyword.bpshort}}				|댈러스, 미국에서 호스팅됨		| 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.SecureGateway}}		|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨		|시드니, 호주에서 호스팅됨 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.sescashort}}		|댈러스, 미국에서 호스팅됨		|런던, 영국에서 호스팅됨		|시드니, 호주에서 호스팅됨 | 지역에서 사용할 수 없음 |
 |{{site.data.keyword.speechtotextshort}}	|댈러스, 미국에서 호스팅됨		|댈러스, 미국에서 호스팅됨		|댈러스, 미국에서 호스팅됨 | 프랑크푸르트, 독일에서 호스팅됨 |

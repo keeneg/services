@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # Servicios por región
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} le permite fácilmente implementar, alojar y escalar servicios y apps. Puede centrarse en la lógica de la aplicación y en el diseño de la aplicación. 
+{:shortdesc}
+
 No todos los servicios están disponibles para su adquisición en cada región de {{site.data.keyword.Bluemix_notm}}. E, incluso si el servicio está disponible para su adquisición en dicha región, el servicio puede estar alojado en una ubicación diferente. La siguiente tabla muestra los servicios proporcionados por IBM.
 
 
@@ -63,7 +66,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.dataworks_short}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.openwhisk}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
+|{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | Alojado en Frankfurt,DE |
 |{{site.data.keyword.datastagefull}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.graphshort}}       |Alojado en Dallas,US		|Alojado en Dallas,US		|No disponible en la región | No disponible en la región |
 |{{site.data.keyword.mdmcloudfull}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | Alojado en Frankfurt,DE |
@@ -98,6 +101,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.personalityinsightsshort}}	|Alojado en Houston,US		|Alojado en Houston,US		|Alojado en Houston,US | Alojado en Frankfurt,DE |
 |{{site.data.keyword.mobilepushshort}}				|Alojado en Dallas,US		|Alojado en Londres,UK			|Alojado en Sídney,AU | Alojado en Frankfurt,DE |
 |{{site.data.keyword.runbook_short}}				|Alojado en Dallas,US		|Alojado en Londres,UK			|Alojado en Sídney,AU | No disponible en la región |
+|{{site.data.keyword.bpshort}}				|Alojado en Dallas,US		| No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.SecureGateway}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.sescashort}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.speechtotextshort}}	|Alojado en Dallas,US		|Alojado en Dallas,US		|Alojado en Dallas,US | Alojado en Frankfurt,DE |

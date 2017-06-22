@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # 地域別のサービス
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} によって、サービスとアプリの実装、ホスト、および拡大を簡単に行うことができます。それにより、アプリケーション・ロジックとアプリケーション設計に集中することができます。
+{:shortdesc}
+
 各 {{site.data.keyword.Bluemix_notm}} 地域ですべてのサービスが購入できるわけではありません。また、当該地域でサービスが購入可能な場合でも、サービスは別の場所でホストされていることがあります。以下の表は、IBM が提供するサービスを示しています。
 
 
@@ -63,7 +66,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.GlobalizationPipeline_short}}	| 米国ダラスでホスト	| 英国ロンドンでホスト	| オーストラリアのシドニーでホスト | 地域で使用不可 |
 |{{site.data.keyword.dataworks_short}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.openwhisk}} | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
-|{{site.data.keyword.containerlong}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 |
+|{{site.data.keyword.containerlong}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | ドイツのフランクフルトでホスト |
 |{{site.data.keyword.datastagefull}}		|米国ダラスでホスト		|英国ロンドンでホスト		|オーストラリアのシドニーでホスト | 地域で使用不可 |
 |{{site.data.keyword.graphshort}}       |米国ダラスでホスト		|米国ダラスでホスト		|地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.mdmcloudfull}}		|米国ダラスでホスト		|英国ロンドンでホスト		|オーストラリアのシドニーでホスト | ドイツのフランクフルトでホスト |
@@ -98,6 +101,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.personalityinsightsshort}}	|米国ヒューストンでホスト		|米国ヒューストンでホスト		|米国ヒューストンでホスト | ドイツのフランクフルトでホスト |
 |{{site.data.keyword.mobilepushshort}}				|米国ダラスでホスト		|英国ロンドンでホスト			|オーストラリアのシドニーでホスト | ドイツのフランクフルトでホスト |
 |{{site.data.keyword.runbook_short}}				|米国ダラスでホスト		|英国ロンドンでホスト			|オーストラリアのシドニーでホスト | 地域で使用不可 |
+|{{site.data.keyword.bpshort}}				|米国ダラスでホスト		| 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.SecureGateway}}		|米国ダラスでホスト		|英国ロンドンでホスト		|オーストラリアのシドニーでホスト | 地域で使用不可 |
 |{{site.data.keyword.sescashort}}		|米国ダラスでホスト		|英国ロンドンでホスト		|オーストラリアのシドニーでホスト | 地域で使用不可 |
 |{{site.data.keyword.speechtotextshort}}	|米国ダラスでホスト		|米国ダラスでホスト		|米国ダラスでホスト | ドイツのフランクフルトでホスト |

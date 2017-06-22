@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -53,7 +53,7 @@ erweisen, steht Support zur Verfügung. Die Art des Supports beruht auf der von 
 |Community	|Ein Service, der von einer Open-Source-Community bereitgestellt wird.	|Support für Community-Services wird von der {{site.data.keyword.Bluemix_notm}} Developers Community bereitgestellt. Wenn ein Problem von IBM untersucht wird und sich als Mangel im Community-Service herausstellt, ist IBM nicht verpflichtet, einen Fix zur Verfügung zu stellen.|
 |Beta	|Ein Service, der für die Produktionsumgebung noch nicht einsatzfähig ist und sich in einer Versuchsphase der
 Entwicklungsstufe befindet. Ein Betaservice kann den Entwicklungs- und Marketingteams dabei helfen, den Wert der Services einzuschätzen, bevor sie den Service der Allgemeinheit zur Verfügung stellen.	|Probleme, die sich als Mängel in einem von IBM bereitgestellten Betaservice erweisen, werden unterstützt; jedoch ist IBM nicht verpflichtet, einen Fix zur Verfügung zu stellen. Zusätzlich wird dem Problemticket eine Prioritätsstufe von 3 oder 4 zugeordnet, soweit zutreffend. Informationen zu Prioritätsstufen von Tickets finden Sie unter [Support kontaktieren](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabelle 1. Supportinformationen für Bluemix-Services" caption-side="top"}
+{: caption="Tabelle 1. Supportinformationen für {{site.data.keyword.Bluemix_notm}}-Services" caption-side="top"}
 
 
 
@@ -278,14 +278,14 @@ Wenn Sie über eine Serviceinstanz verfügen, die erstellt und an Apps in einer 
 
 	Angenommen, Sie beginnen in der Region, in der Sie die Serviceinstanz verwenden möchten. Führen Sie die folgenden Schritte aus, um eine Serviceinstanz zu verwenden, die in einer anderen Region existiert:
 
-      1. Wechseln Sie in die Region, in der die Serviceinstanz existiert. Erweitern Sie in der Menüleiste von {{site.data.keyword.Bluemix_notm}} die Option **Region** oder klicken Sie auf das Symbol für **Region** und wählen Sie anschließend die Region aus, in der sich die Serviceinstanz befindet.
+      1. Wechseln Sie in die Region, in der die Serviceinstanz existiert. Erweitern Sie in der Menüleiste {{site.data.keyword.Bluemix_notm}} das Menü **Region** und wählen Sie die Region aus, in der sich der Service befindet.
 
       2. Rufen Sie die Berechtigungsnachweise und Verbindungsparameter aus der Umgebungsvariablen VCAP_SERVICES der Serviceinstanz in der Region ab, in der sich der Service befindet. Führen Sie die folgenden Schritte aus:
 
 	       1. Klicken Sie im {{site.data.keyword.Bluemix_notm}}-Dashboard auf die Anwendungskachel. Die Übersichtsseite wird angezeigt.
 	       2. Klicken Sie im Navigationsbereich auf **Umgebungsvariablen**. Die Details zur Umgebungsvariablen *VCAP_SERVICES* werden angezeigt. Dokumentieren Sie den JSON-Inhalt für die Serviceinstanz.
 
-      3. Wechseln Sie zu der Region, in der Sie die Serviceinstanz verwenden möchten. Erweitern Sie in der Menüleiste von {{site.data.keyword.Bluemix_notm}} die Option **Region** oder klicken Sie auf das Symbol für **Region** und wählen Sie anschließend die Region aus, in der Sie die Serviceinstanz verwenden möchten.
+      3. Wechseln Sie zu der Region, in der Sie die Serviceinstanz verwenden möchten. Erweitern Sie in der Menüleiste {{site.data.keyword.Bluemix_notm}} das Menü **Region** und wählen Sie die Region aus, in der Sie die Serviceinstanz nutzen wollen.
 
       4. Erstellen Sie eine vom Benutzer zur Verfügung gestellte Serviceinstanz, indem Sie die Berechtigungsnachweise und Verbindungsparameter verwenden, die Sie aus der Umgebungsvariablen *VCAP_SERVICES* aufgezeichnet haben. Informationen zur Erstellung einer vom Benutzer bereitgestellten Serviceinstanz finden Sie im Abschnitt zur [Erstellung einer vom Benutzer bereitgestellten Serviceinstanz](#user_provide_services).
 
@@ -310,12 +310,3 @@ Führen Sie die folgenden Schritte aus, um eine Serviceinstanz von einem anderen
 1. Klicken Sie im {{site.data.keyword.Bluemix_notm}}-Dashboard auf die Kachel für den Service, auf den Sie zugreifen möchten. Das Dashboard für den Service wird angezeigt.
 2. Klicken Sie im Navigationsbereich auf **Verwalten von**, um das Binden von anderen Serviceinstanzen unter Verwendung der Konsole der Serviceinstanz zu autorisieren.
 3. Wenn Sie den Zugriff weiterer Services auf die Serviceinstanz verhindern möchten, klicken Sie im Navigationsbereich auf **Berechtigung für Servicezugriff** und entfernen Sie die Servicebindung anschließend mithilfe von **Widerrufen**.
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-* [Service mithilfe der {{site.data.keyword.Bluemix_notm}}-Benutzerschnittstelle binden](/docs/cfapps/ee.html#ee_bindui)
-* [VCAP_SERVICES abrufen](/docs/cli/vcapsvc.html#retrieving)

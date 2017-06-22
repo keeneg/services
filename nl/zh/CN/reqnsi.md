@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -41,7 +41,7 @@ lastupdated: "2017-05-16"
 |第三方	|非 IBM 公司提供的服务。	|对第三方服务的支持由服务提供者提供。如果 IBM 调查的某个问题确定为第三方服务中的缺陷，那么 IBM 没有义务提供修订。如果需要，IBM 将与第三方服务提供者共享分析。|
 |社区	|开放式源代码社区提供的服务。	|对社区服务的支持由 {{site.data.keyword.Bluemix_notm}} 开发者社区提供。如果 IBM 调查的某个问题确定为社区服务中的缺陷，那么 IBM 没有义务提供修订。|
 |Beta	|尚不可用于生产、目前处于开发试用阶段的服务。Beta 服务可帮助开发和市场营销团队先评估服务价值，再使服务普遍可用。	|如果问题确定为 IBM 提供的 beta 服务中的缺陷，那么将受支持，但 IBM 没有义务提供修订。此外，将在适当的情况下为问题凭单分配严重性 3 或 4。有关凭单严重性的信息，请参阅[联系支持人员](/docs/support/index.html#contacting-bluemix-support)。|
-{: caption="表 1. Bluemix 服务支持信息" caption-side="top"}
+{: caption="表 1. {{site.data.keyword.Bluemix_notm}} 服务支持信息" caption-side="top"}
 
 
 
@@ -253,14 +253,14 @@ cf uups testups2 -l syslog://example2.com
 
 	假定您是在要使用服务实例的区域开始操作。要使用另一个区域中存在的服务实例，请完成以下步骤：
 
-      1. 切换到服务实例所在的区域。在 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开**区域**或单击**区域**图标，然后选择服务实例所在的区域。
+      1. 切换到服务实例所在的区域。在 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开**区域**菜单，然后选择服务实例所在的区域。
 
       2. 在服务所在的区域中从服务实例的 VCAP_SERVICES 环境变量检索凭证和连接参数。请完成以下步骤：
 
 	       1. 在 {{site.data.keyword.Bluemix_notm}}“仪表板”中，单击应用程序磁贴。这将显示“概述”页面。
 	       2. 在导航窗格中，单击**环境变量**。这将显示 *VCAP_SERVICES* 环境变量详细信息。记录服务实例的 JSON 内容。
 
-      3. 切换到您要在其中使用服务实例的区域。在 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开**区域**或单击**区域**图标，然后选择要在其中使用服务实例的区域。
+      3. 切换到您要在其中使用服务实例的区域。在 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开**区域**菜单，然后选择要使用服务实例的区域。
 
       4. 通过使用从 *VCAP_SERVICES* 环境变量记录的凭证和连接参数，以创建用户提供的服务实例。有关如何创建用户提供的服务实例的信息，请参阅[创建用户提供的服务实例](#user_provide_services)。
 
@@ -285,12 +285,3 @@ cf uups testups2 -l syslog://example2.com
 1. 在 {{site.data.keyword.Bluemix_notm}}“仪表板”上，单击要访问的服务的磁贴。这将显示该服务的仪表板。
 2. 在导航窗格中，单击**管理**，通过使用该服务实例的控制台来授权其他服务实例绑定该服务实例。
 3. 如果想要拒绝其他服务访问该服务实例，请单击导航窗格中的**服务访问授权**，然后使用**撤销**来除去服务绑定。
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-* [使用 {{site.data.keyword.Bluemix_notm}} 用户界面绑定服务](/docs/cfapps/ee.html#ee_bindui)
-* [检索 VCAP_SERVICES](/docs/cli/vcapsvc.html#retrieving)

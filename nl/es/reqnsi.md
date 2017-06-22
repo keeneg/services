@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -43,7 +43,7 @@ Los servicios predefinidos están disponibles en {{site.data.keyword.Bluemix_not
 |Otro proveedor	|Un servicio que está proporcionado por una empresa que no es IBM.	|El soporte para servicios de terceros está proporcionado por un proveedor de servicios. Si IBM investiga un problema y se determina que el problema es un defecto de un servicio de terceros, IBM no está obligado a proporcionar un arreglo. IBM compartirá análisis con el proveedor de servicios de terceros si es necesario.|
 |Comunidad	|Un servicio que está proporcionado por una comunidad de código abierto.	|El soporte para servicios de la comunidad se proporciona a través de la Comunidad de desarrolladores de {{site.data.keyword.Bluemix_notm}}. Si IBM investiga un problema y se determina que el problema es un defecto de un servicio de comunidad, IBM no está obligado a proporcionar un arreglo.|
 |Beta	|Servicio que no está listo para producción que está en una etapa de prueba de desarrollo. Un servicio beta puede ayudar a los equipos de desarrollo y marketing a evaluar el valor de los servicios antes de que el servicio esté generalmente disponible.	|Se da soporte a los problemas que se determinen que son un defecto de un servicio beta proporcionado por IBM, aunque IBM no está obligado a proporcionar un arreglo. Además, se asignará una incidencia de problema con una gravedad de 3 o 4 cuando proceda. Para obtener información sobre la gravedad de las incidencias, consulte [Cómo obtener soporte](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabla 1. Información de soporte para los servicios de Bluemix" caption-side="top"}
+{: caption="Tabla 1. Información de soporte para los servicios de {{site.data.keyword.Bluemix_notm}}" caption-side="top"}
 
 
 
@@ -52,7 +52,7 @@ Los servicios predefinidos están disponibles en {{site.data.keyword.Bluemix_not
 
 Los servicios experimentales pueden no ser estables y es posible que cambien de modo que no sean compatibles con versiones anteriores. No se recomienda utilizar estos servicios en entornos de producción. El soporte para servicios experimentales se proporciona a través de la Comunidad de desarrolladores de {{site.data.keyword.Bluemix_notm}}. Si IBM investiga un problema y se determina que el problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
 
-Para utilizar un servicio en la consola de {{site.data.keyword.Bluemix_notm}}, en la interfaz de línea de mandatos cf, en IBM {{site.data.keyword.Bluemix_notm}} DevOps Services o en cualquier herramienta soportada, realice los pasos siguientes: 
+Para utilizar un servicio en la consola de {{site.data.keyword.Bluemix_notm}}, en la interfaz de línea de mandatos cf, en IBM {{site.data.keyword.Bluemix_notm}} DevOps Services o en cualquier herramienta soportada, realice los pasos siguientes:
 
 1. Cree una instancia del servicio. En la mayoría de los casos, la instancia de servicio se puede crear al crear la aplicación.
 
@@ -264,14 +264,14 @@ Si tiene una instancia de servicio creada y enlazada a apps en una región, pued
 
 	Supongamos que va a iniciar la región en la que desea utilizar la instancia de servicio. Para utilizar una instancia de servicio existente en otra región, siga estos pasos:
 
-      1. Vaya a la región en la que reside la instancia de servicio. En la barra de menús de {{site.data.keyword.Bluemix_notm}}, expanda **Región** o pulse el icono **Región** y seleccione la región en la que reside la instancia de servicio.
+      1. Vaya a la región en la que reside la instancia de servicio. En la barra de menús de {{site.data.keyword.Bluemix_notm}}, expanda el menú **Región** y seleccione la región en la que reside la instancia de servicio.
 
       2. Recupere las credenciales y los parámetros de conexión de la variable de entorno VCAP_SERVICES de la instancia de servicio de la región en la que existe el servicio. Siga estos pasos:
 
 	       1. En el Panel de control de {{site.data.keyword.Bluemix_notm}}, pulse el mosaico de la aplicación. Se muestra la página Visión general.
 	       2. En el panel de navegación, pulse **Variables de entorno**. Se muestran los detalles de la variable de entorno *VCAP_SERVICES*. Registre el contenido JSON correspondiente a la instancia de servicio.
 
-      3. Vaya a la región en la que desea utilizar la instancia de servicio. En la barra de menús de {{site.data.keyword.Bluemix_notm}}, expanda **Región** o pulse el icono **Región** y seleccione la región en la que desea utilizar la instancia de servicio.
+      3. Vaya a la región en la que desea utilizar la instancia de servicio. En la barra de menús de {{site.data.keyword.Bluemix_notm}}, expanda el menú **Región** y seleccione la región en la que desea utilizar la instancia de servicio.
 
       4. Cree una instancia de servicio suministrada por el usuario utilizando las credenciales y los parámetros de conexión que ha registrado de la variable de entorno *VCAP_SERVICES*. Para obtener información sobre cómo crear una instancia de servicio proporcionada por el usuario, consulte el tema sobre [creación de una instancia de servicio proporcionada por el usuario](#user_provide_services).
 
@@ -299,12 +299,3 @@ Para utilizar una instancia de servicio de otro servicio, siga estos pasos:
 el mosaico para el servicio al que desee acceder. Se mostrará el panel de control para el servicio.
 2. En el panel de navegación, pulse **Gestionar** para autorizar el enlace desde otras instancias de servicio utilizando la consola de la instancia de servicio.
 3. Si desea denegar a otros servicios el acceso a la instancia de servicio, pulse **Autorización de acceso de servicio** en el panel de navegación y, a continuación, utilice **Revocar** para eliminar el enlace de servicio.
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-* [Enlace de un servicio mediante la interfaz de usuario de {{site.data.keyword.Bluemix_notm}}](/docs/cfapps/ee.html#ee_bindui)
-* [Recuperación de VCAP_SERVICES](/docs/cli/vcapsvc.html#retrieving)

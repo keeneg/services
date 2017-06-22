@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # Services nach Region
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} macht es Ihnen leicht, Services und Apps zu implementieren, zu hosten und zu skalieren. Sie können sich voll auf Ihre Anwendungslogik und den Anwendungsentwurf konzentrieren. 
+{:shortdesc}
+
 Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erhältlich. Auch dann, wenn der Service in einer Region erhältlich ist, kann er an einem anderen Standort gehostet werden. In der folgenden Tabelle sind die Services aufgeführt, die von IBM zur Verfügung gestellt werden.
 
 
@@ -63,7 +66,7 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.dataworks_short}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.openwhisk}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
-|{{site.data.keyword.containerlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
+|{{site.data.keyword.containerlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Gehostet in Frankfurt,DE |
 |{{site.data.keyword.datastagefull}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.graphshort}}       |Gehostet in Dallas, USA		|Gehostet in Dallas, USA		|Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.mdmcloudfull}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Gehostet in Frankfurt,DE |
@@ -98,6 +101,7 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |{{site.data.keyword.personalityinsightsshort}}	|Gehostet in Houston, USA		|Gehostet in Houston, USA		|Gehostet in Houston, USA | Gehostet in Frankfurt,DE |
 |{{site.data.keyword.mobilepushshort}}				|Gehostet in Dallas, USA		|Gehostet in London, UK			|Gehostet in Sydney, AU | Gehostet in Frankfurt,DE |
 |{{site.data.keyword.runbook_short}}				|Gehostet in Dallas, USA		|Gehostet in London, UK			|Gehostet in Sydney, AU | Nicht erhältlich in der Region |
+|{{site.data.keyword.bpshort}}				|Gehostet in Dallas, USA		| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.SecureGateway}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.sescashort}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.speechtotextshort}}	|Gehostet in Dallas, USA		|Gehostet in Dallas, USA		|Gehostet in Dallas, USA | Gehostet in Frankfurt,DE |

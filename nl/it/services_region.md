@@ -14,6 +14,10 @@ lastupdated: "2017-05-16"
 # Servizi per regione
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} ti consente di implementare, ospitare o ridimensionare facilmente servizi e applicazioni. Potrai così concentrarti sulla logica e
+sulla progettazione dell'applicazione. 
+{:shortdesc}
+
 Non tutti i servizi sono disponibili per l'acquisto in ogni regione {{site.data.keyword.Bluemix_notm}}. E, anche se il servizio è disponibile per l'acquisto in una regione, tale servizio potrebbe essere ospitato in un luogo differente. La seguente tabella mostra i servizi forniti da IBM.
 
 
@@ -63,7 +67,7 @@ Non tutti i servizi sono disponibili per l'acquisto in ogni regione {{site.data.
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Ospitato a Dallas,USA	| Ospitato a Londra,UK	| Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.dataworks_short}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Non disponibile nella regione | Non disponibile nella regione |
 |{{site.data.keyword.openwhisk}} | Ospitato a Dallas,USA | Non disponibile nella regione | Non disponibile nella regione | Non disponibile nella regione |
-|{{site.data.keyword.containerlong}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Non disponibile nella regione | Non disponibile nella regione |
+|{{site.data.keyword.containerlong}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Non disponibile nella regione | Ospitato a Francoforte, DE |
 |{{site.data.keyword.datastagefull}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.graphshort}}       |Ospitato a Dallas,USA		|Ospitato a Dallas,USA		|Non disponibile nella regione | Non disponibile nella regione |
 |{{site.data.keyword.mdmcloudfull}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Ospitato a Francoforte, DE |
@@ -98,6 +102,7 @@ Non tutti i servizi sono disponibili per l'acquisto in ogni regione {{site.data.
 |{{site.data.keyword.personalityinsightsshort}}	|Ospitato a Houston,USA		|Ospitato a Houston,USA		|Ospitato a Houston,USA | Ospitato a Francoforte, DE |
 |{{site.data.keyword.mobilepushshort}}				|Ospitato a Dallas,USA		|Ospitato a Londra,UK			|Ospitato a Sydney,AU | Ospitato a Francoforte, DE |
 |{{site.data.keyword.runbook_short}}				|Ospitato a Dallas,USA		|Ospitato a Londra,UK			|Ospitato a Sydney,AU | Non disponibile nella regione |
+|{{site.data.keyword.bpshort}}				|Ospitato a Dallas,USA		| Non disponibile nella regione | Non disponibile nella regione | Non disponibile nella regione |
 |{{site.data.keyword.SecureGateway}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.sescashort}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.speechtotextshort}}	|Ospitato a Dallas,USA		|Ospitato a Dallas,USA		|Ospitato a Dallas,USA | Ospitato a Francoforte, DE |

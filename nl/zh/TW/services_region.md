@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # 各地區的服務
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} 讓您能輕鬆地實作、管理及擴充服務和應用程式。您可以將焦點放在應用程式邏輯和應用程式設計。
+{:shortdesc}
+
 並非每個 {{site.data.keyword.Bluemix_notm}} 地區都可購買到所有服務。而且，即使可在該地區購買到此服務，此服務也可能是在不同位置進行管理。下表顯示 IBM 所提供的服務。
 
 
@@ -63,7 +66,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.GlobalizationPipeline_short}}	| 在美國達拉斯進行管理	| 在英國倫敦進行管理	| 在澳洲雪梨進行管理 | 在此地區無法使用 |
 |{{site.data.keyword.dataworks_short}} | 在美國達拉斯進行管理 | 在英國倫敦進行管理 | 在此地區無法使用 | 在此地區無法使用 |
 |{{site.data.keyword.openwhisk}} | 在美國達拉斯進行管理 | 在此地區無法使用 | 在此地區無法使用 | 在此地區無法使用 |
-|{{site.data.keyword.containerlong}} | 在美國達拉斯進行管理 | 在英國倫敦進行管理 | 在此地區無法使用 | 在此地區無法使用 |
+|{{site.data.keyword.containerlong}} | 在美國達拉斯進行管理 | 在英國倫敦進行管理 | 在此地區無法使用 | 在德國法蘭克福進行管理 |
 |{{site.data.keyword.datastagefull}}		|在美國達拉斯進行管理		|在英國倫敦進行管理		|在澳洲雪梨進行管理 | 在此地區無法使用 |
 |{{site.data.keyword.graphshort}}       |在美國達拉斯進行管理		|在美國達拉斯進行管理		|在此地區無法使用 | 在此地區無法使用 |
 |{{site.data.keyword.mdmcloudfull}}		|在美國達拉斯進行管理		|在英國倫敦進行管理		|在澳洲雪梨進行管理 | 在德國法蘭克福進行管理 |
@@ -98,6 +101,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.personalityinsightsshort}}	|在美國休斯頓進行管理		|在美國休斯頓進行管理		|在美國休斯頓進行管理 | 在德國法蘭克福進行管理 |
 |{{site.data.keyword.mobilepushshort}}				|在美國達拉斯進行管理		|在英國倫敦進行管理			|在澳洲雪梨進行管理 | 在德國法蘭克福進行管理 |
 |{{site.data.keyword.runbook_short}}				|在美國達拉斯進行管理		|在英國倫敦進行管理			|在澳洲雪梨進行管理 | 在此地區無法使用 |
+|{{site.data.keyword.bpshort}}				|在美國達拉斯進行管理		| 在此地區無法使用 | 在此地區無法使用 | 在此地區無法使用 |
 |{{site.data.keyword.SecureGateway}}		|在美國達拉斯進行管理		|在英國倫敦進行管理		|在澳洲雪梨進行管理 | 在此地區無法使用 |
 |{{site.data.keyword.sescashort}}		|在美國達拉斯進行管理		|在英國倫敦進行管理		|在澳洲雪梨進行管理 | 在此地區無法使用 |
 |{{site.data.keyword.speechtotextshort}}	|在美國達拉斯進行管理		|在美國達拉斯進行管理		|在美國達拉斯進行管理 | 在德國法蘭克福進行管理 |

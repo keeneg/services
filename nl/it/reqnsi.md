@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -60,7 +60,7 @@ fase di sviluppo di prova. Un servizio beta può aiutare i team di sviluppo
 e di marketing a valutare la qualità dei servizi prima di
 renderli generalmente disponibili.	|Viene fornito supporto per i problemi considerati come un difetto in un servizio beta fornito da IBM, tuttavia  IBM non è tenuto a fornire una correzione. Inoltre,
 laddove applicabile, al ticket del problema verrà assegnata una severità 3 o 4. Per informazioni sulla severità dei ticket, vedi [Come contattare il supporto](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabella 1. Informazioni sul supporto dei servizi Bluemix" caption-side="top"}
+{: caption="Tabella 1. Informazioni sul supporto dei servizi {{site.data.keyword.Bluemix_notm}}" caption-side="top"}
 
 
 
@@ -177,7 +177,7 @@ diversi servizi. Potresti dover leggere la documentazione del servizio in merito
 e come interpretare ogni elemento di informazione.
 
 Se si verifica un arresto anomalo di un servizio di cui esegui il bind a un'applicazione,
-l'esecuzione dell'applicazione potrebbe essere arrestata oppure potrebbero verificarsi per essa delle condizioni di errore. {{site.data.keyword.Bluemix_notm}} non riavvia automaticamente l'applicazione per eseguire un ripristino da tali problemi. Valuta una codifica della tua applicazione per identificare interruzioni, eccezioni ed errori di connessione e per eseguire il ripristino da tali condizioni. Per ulteriori informazioni, consulta l'argomento di risoluzione dei problemi relativo al fatto che [le applicazioni non verranno riavviate automaticamente](/docs/troubleshoot/index.html#ts_topmenubar).
+l'esecuzione dell'applicazione potrebbe essere arrestata oppure potrebbero verificarsi per essa delle condizioni di errore. {{site.data.keyword.Bluemix_notm}} non riavvia automaticamente l'applicazione per eseguire un ripristino da tali problemi. Valuta una codifica della tua applicazione per identificare interruzioni, eccezioni ed errori di connessione e per eseguire il ripristino da tali condizioni. Per ulteriori informazioni, vedi l'argomento di risoluzione dei problemi relativo al fatto che [le applicazioni non verranno riavviate automaticamente](/docs/troubleshoot/index.html#ts_topmenubar).
 
 ## Abilitazione di applicazioni esterne all'utilizzo dei servizi {{site.data.keyword.Bluemix_notm}}
 {: #accser_external}
@@ -324,7 +324,7 @@ Se disponi di un'istanza di servizio creata e associata mediante bind ad applica
 desideri utilizzare l'istanza del servizio. Per utilizzare un'istanza del servizio che si trova
 in un'altra regione, completa la seguente procedura:
 
-      1. Passa alla regione in cui si trova l'istanza del servizio. Nella barra dei menu di {{site.data.keyword.Bluemix_notm}}, espandi **Regione** o fai clic sull'icona **Regione**, quindi seleziona la regione in cui si trova l'istanza del servizio.
+      1. Passa alla regione in cui si trova l'istanza del servizio. Nella barra dei menu di {{site.data.keyword.Bluemix_notm}}, espandi il menu **Regione** e quindi seleziona la regione in cui si trova l'istanza del servizio.
 
       2. Recupera le credenziali e i parametri di connessione dalla variabile di ambiente VCAP_SERVICES dell'istanza del servizio nella regione in cui si trova il servizio. Completa la seguente
 procedura:
@@ -334,7 +334,7 @@ procedura:
 del servizio.
 
       3. Passa alla regione in cui desideri utilizzare l'istanza del
-servizio. Nella barra dei menu di {{site.data.keyword.Bluemix_notm}}, espandi **Regione** o fai clic sull'icona **Regione**, quindi seleziona la regione in cui desideri utilizzare l'istanza del servizio.
+servizio. Nella barra dei menu di {{site.data.keyword.Bluemix_notm}}, espandi il menu **Regione** e quindi seleziona la regione in cui vuoi utilizzare l'istanza del servizio.
 
       4. Crea un'istanza del servizio fornito dall'utente utilizzando le credenziali
 e i parametri di connessione che hai registrato dalla variabile di ambiente
@@ -365,12 +365,3 @@ Per utilizzare un'istanza del servizio da un altro servizio, completa la seguent
 cui vuoi accedere. Viene visualizzato il dashboard per il servizio.
 2. Nel riquadro di navigazione, fai clic su **Gestisci** per autorizzare il bind da altre istanze del servizio utilizzando la console dell'istanza del servizio.
 3. Se vuoi negare ad altri servizi l'accesso all'istanza, fai clic su **Autorizzazione accesso al servizio** nel riquadro di navigazione e utilizza quindi **Revoca** per rimuovere il bind del servizio.
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-* [Esecuzione del bind di un servizio utilizzando l'interfaccia utente {{site.data.keyword.Bluemix_notm}}](/docs/cfapps/ee.html#ee_bindui)
-* [Richiamo di VCAP_SERVICES](/docs/cli/vcapsvc.html#retrieving)

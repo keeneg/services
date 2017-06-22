@@ -11,35 +11,26 @@ lastupdated: "2017-04-11"
 {:shortdesc: .shortdesc}
 
 
-# Support des services
+# Support for services
 {: #services}
 
-{{site.data.keyword.Bluemix}} simplifie l'implémentation, l'hébergement et la mise à l'échelle des services et des applications. Ainsi,
-vous pouvez vous consacrer à la logique et à la conception de l'application.
+{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services and apps. You can focus on your application logic and application design.
 {:shortdesc}
 
-Plusieurs niveaux de support existent pour les services {{site.data.keyword.Bluemix_notm}}. Le tableau
-suivant décrit les informations de support générales pour les services {{site.data.keyword.Bluemix_notm}} :
+Multiple levels of support are provided for {{site.data.keyword.Bluemix_notm}} services. The following table describes the general support information for {{site.data.keyword.Bluemix_notm}} services:
 
-|Type	|Description	|Détails du support|
+|Type	|Description	|Support details|
 |:------|:--------------|:--------------|
-|IBM	|Service fourni par IBM et généralement disponible.	|Les problèmes considérés comme un défaut d'un service fourni par IBM généralement disponible sont traités. Le support dépend de la gravité que vous définissez. Pour plus d'informations sur la gravité des tickets, voir [Contacter le service de support](/docs/support/index.html#contacting-bluemix-support){: new_window}.|
-|Tiers	|Service fourni par une société autre qu'IBM.	|Le support des services de tiers est assuré par le fournisseur de service. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de tiers, elle n'est pas obligée de fournir un correctif. IBM partagera son analyse avec le fournisseur de service de tiers si nécessaire.|
-|Communauté	|Service fourni par une communauté open source.	|Le support des services de communauté est assuré par la communauté des développeurs {{site.data.keyword.Bluemix_notm}}. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de communauté, elle n'est pas obligée de fournir un correctif.|
-|Bêta	|Service qui n'est pas prêt pour la phase de production et qui se trouve au stade d'essai de développement. Un service bêta peut aider les équipes de développement et marketing à évaluer la valeur d'un service avant de le rendre généralement disponible.	|Les problèmes identifiés comme défauts dans un service bêta fourni par IBM sont pris en charge, mais IBM n'est pas obligée de fournir un correctif. De plus, le ticket de problème sera associé à une gravité de 3 ou 4 si applicable. Pour plus d'informations sur la gravité des tickets, voir [Contacter le support ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](/docs/support/index.html#contacting-bluemix-support){: new_window}.|
-{: caption="Tableau 1. Informations de support des services Bluemix" caption-side="top"}
+|IBM	|A service that is provided by IBM and is generally available.	|Problems that are determined to be a defect in an IBM-provided service that is generally available are supported. Support is provided based on the severity that you set. For more information about ticket severity, see [Contacting support](/docs/support/index.html#contacting-bluemix-support){: new_window}.|
+|Third Party	|A service that is provided by a company other than IBM.	|Support for third-party services is provided by the service provider. If a problem is investigated by IBM and the problem is determined to be a defect in a third-party service, IBM is not obligated to provide a fix. IBM will share analysis with the third-party service provider if needed.|
+|Community	|A service that is provided by an open source community.	|Support for community services is provided by the {{site.data.keyword.Bluemix_notm}} Developers Community. If a problem is investigated by IBM and the problem is determined to be a defect in a community service, IBM is not obligated to provide a fix.|
+|Beta	|A service that is not production-ready and is in a trial stage of development. A Beta service can help the development and marketing teams assess the value of the services before they make the service generally available.	|Problems that are determined to be a defect in an IBM-provided beta service are supported, but IBM is not obligated to provide a fix. In addition, the problem ticket will be assigned a severity 3 or 4 where applicable. For information about ticket severity, see [Contacting support ![External link icon](../icons/launch-glyph.svg "External link icon")](/docs/support/index.html#contacting-bluemix-support){: new_window}.|
+{: caption="Table 1. {{site.data.keyword.Bluemix_notm}} services support information" caption-side="top"}
 
 
-##Services expérimentaux
+##Experimental services
 {: #experimental_services}
 
-{{site.data.keyword.Bluemix_notm}}
-propose également des services expérimentaux que vous pouvez essayer. Pour afficher tous les services expérimentaux, les conteneurs boilerplate et les
-contextes d'exécution disponibles, connectez-vous à la console {{site.data.keyword.Bluemix_notm}}, cliquez sur **Catalogue**,
-faites défiler le catalogue jusqu'à la fin, puis cliquez sur **Services expérimentaux
-{{site.data.keyword.Bluemix_notm}}**.
+{{site.data.keyword.Bluemix_notm}} also has experimental services that you can try out. To view all available experimental services, boilerplates, and runtimes, log in to the {{site.data.keyword.Bluemix_notm}} console, click **Catalog**, scroll to the bottom of the catalog, and then click **{{site.data.keyword.Bluemix_notm}} Experimental Services**.
 
-Les services expérimentaux peuvent
-être instables et faire l'objet de modifications entraînant leur incompatibilité avec les versions précédentes. L'utilisation de ces services dans des
-environnements de production n'est pas recommandée. Le support des services expérimentaux est assuré par la communauté des développeurs {{site.data.keyword.Bluemix_notm}}. Si IBM examine un problème et
-détermine qu'il s'agit d'un défaut d'un service expérimental, elle n'est pas obligée de fournir un correctif.
+Experimental services might not be stable and can change in ways that are not compatible with earlier versions. These services are not recommended for use in production environments. Support for experimental services is provided through the {{site.data.keyword.Bluemix_notm}} Developers Community. If a problem is investigated by IBM and the problem is determined to be a defect in an experimental service, IBM is not obligated to provide a fix.

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -44,7 +44,7 @@ présente les services de deux façons : par catégorie de services et par type 
 |Tiers	|Service fourni par une société autre qu'IBM.	|Le support des services de tiers est assuré par le fournisseur de service. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de tiers, elle n'est pas obligée de fournir un correctif. IBM partagera son analyse avec le fournisseur de service de tiers si nécessaire.|
 |Communauté	|Service fourni par une communauté open source.	|Le support des services de communauté est assuré par la communauté des développeurs {{site.data.keyword.Bluemix_notm}}. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de communauté, elle n'est pas obligée de fournir un correctif.|
 |Bêta	|Service qui n'est pas prêt pour la phase de production et qui se trouve au stade d'essai de développement. Un service bêta peut aider les équipes de développement et marketing à évaluer la valeur d'un service avant de le rendre généralement disponible.	|Les problèmes identifiés comme défauts dans un service bêta fourni par IBM sont pris en charge, mais IBM n'est pas obligée de fournir un correctif. De plus, le ticket de problème sera associé à une gravité de 3 ou 4 si applicable. Pour des informations sur la gravité des tickets, voir [Contacter le service de support](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tableau 1. Informations de support des services Bluemix" caption-side="top"}
+{: caption="Tableau 1. Informations sur le support des services {{site.data.keyword.Bluemix_notm}}" caption-side="top"}
 
 
 
@@ -294,14 +294,14 @@ pour des détails.
 
 	Supposez que vous vous trouviez dans la région dans laquelle vous voulez utiliser l'instance de service. Pour utiliser une instance de service qui existe dans une autre région, procédez comme suit :
 
-      1. Passez dans la région dans laquelle l'instance de service existe. Dans la barre de menu {{site.data.keyword.Bluemix_notm}}, développez **Région** ou cliquez sur l'icône **Région**, puis sélectionnez la région dans laquelle l'instance de service existe.
+      1. Passez dans la région dans laquelle l'instance de service existe. Dans la barre de menu {{site.data.keyword.Bluemix_notm}}, développez le menu **Région**, puis sélectionnez la région où est présente l'instance de service.
 
       2. Récupérez les données d'identification et les paramètres de connexion depuis la variable d'environnement VCAP_SERVICES de l'instance de service dans la région dans laquelle le service existe. Procédez comme suit :
 
 	       1. Dans le tableau de bord {{site.data.keyword.Bluemix_notm}}, cliquez sur la vignette de votre application. La page Présentation s'affiche.
 	       2. Dans le panneau de navigation, cliquez sur **Variables d'environnement**. Les détails de la variable d'environnement *VCAP_SERVICES* sont affichés. Enregistrez le contenu JSON pour l'instance de service.
 
-      3. Passez dans la région dans laquelle vous voulez utiliser l'instance de service. Dans la barre de menu {{site.data.keyword.Bluemix_notm}}, développez **Région** ou cliquez sur l'icône **Région**, puis sélectionnez la région dans laquelle utiliser l'instance de service.
+      3. Passez dans la région dans laquelle vous voulez utiliser l'instance de service. Dans la barre de menu {{site.data.keyword.Bluemix_notm}}, développez le menu **Région**, puis sélectionnez la région où vous désirez utiliser l'instance de service.
 
       4. Créez une instance de service fournie par l'utilisateur en utilisant les données d'identification et les paramètres de connexion que vous avez enregistrés depuis la variable d'environnement *VCAP_SERVICES*. Pour plus d'informations sur la création d'une instance de service fournie par l'utilisateur, voir [Création d'une instance de service fournie par l'utilisateur](#user_provide_services).
 
@@ -326,12 +326,3 @@ Pour utiliser une instance de service depuis un autre service, procédez comme s
 1. Dans le tableau de bord {{site.data.keyword.Bluemix_notm}}, cliquez sur la vignette du service auquel accéder. Le tableau de bord du service s'ouvre.
 2. Dans le panneau de navigation, cliquez sur **Gérer** pour autoriser la liaison depuis d'autres instances de service à l'aide de la console de l'instance de service.
 3. Si vous voulez refuser à d'autres services l'accès à l'instance de service, cliquez sur **Autorisation d'accès au service** dans le panneau de navigation, puis utilisez **Révoquer** pour supprimer la liaison de service.
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-* [Liaison d'un service via l'interface utilisateur {{site.data.keyword.Bluemix_notm}}](/docs/cfapps/ee.html#ee_bindui)
-* [Extraction de VCAP_SERVICES](/docs/cli/vcapsvc.html#retrieving)

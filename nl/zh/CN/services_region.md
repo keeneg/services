@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # 按区域列出的服务
 {: #services_region}
 
+通过 {{site.data.keyword.Bluemix}}，您可以轻松地实施、托管和扩展服务和应用程序。您可以关注应用程序逻辑和应用程序设计。
+{:shortdesc}
+
 不是所有的服务都可以在每个 {{site.data.keyword.Bluemix_notm}} 区域中进行购买。此外，即便服务在该区域中可供购买，该服务也可能是在其他位置托管的。下表显示 IBM 提供的服务。
 
 
@@ -63,7 +66,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.GlobalizationPipeline_short}}	| 在美国达拉斯托管	| 在英国伦敦托管	| 在澳大利亚悉尼托管 | 在区域中不可用 |
 |{{site.data.keyword.dataworks_short}} | 在美国达拉斯托管 | 在英国伦敦托管 | 在区域中不可用 | 在区域中不可用 |
 |{{site.data.keyword.openwhisk}} | 在美国达拉斯托管 | 在区域中不可用 | 在区域中不可用 | 在区域中不可用 |
-|{{site.data.keyword.containerlong}} | 在美国达拉斯托管 | 在英国伦敦托管 | 在区域中不可用 | 在区域中不可用 |
+|{{site.data.keyword.containerlong}} | 在美国达拉斯托管 | 在英国伦敦托管 | 在区域中不可用 | 在德国法兰克福托管 |
 |{{site.data.keyword.datastagefull}}		|在美国达拉斯托管		|在英国伦敦托管		|在澳大利亚悉尼托管 | 在区域中不可用 |
 |{{site.data.keyword.graphshort}}       |在美国达拉斯托管		|在美国达拉斯托管		|在区域中不可用 | 在区域中不可用 |
 |{{site.data.keyword.mdmcloudfull}}		|在美国达拉斯托管		|在英国伦敦托管		|在澳大利亚悉尼托管 | 在德国法兰克福托管 |
@@ -98,6 +101,7 @@ lastupdated: "2017-05-16"
 |{{site.data.keyword.personalityinsightsshort}}	|在美国休斯顿托管		|在美国休斯顿托管		|在美国休斯顿托管 | 在德国法兰克福托管 |
 |{{site.data.keyword.mobilepushshort}}				|在美国达拉斯托管		|在英国伦敦托管			|在澳大利亚悉尼托管 | 在德国法兰克福托管 |
 |{{site.data.keyword.runbook_short}}				|在美国达拉斯托管		|在英国伦敦托管			|在澳大利亚悉尼托管 | 在区域中不可用 |
+|{{site.data.keyword.bpshort}}				|在美国达拉斯托管		| 在区域中不可用 | 在区域中不可用 | 在区域中不可用 |
 |{{site.data.keyword.SecureGateway}}		|在美国达拉斯托管		|在英国伦敦托管		|在澳大利亚悉尼托管 | 在区域中不可用 |
 |{{site.data.keyword.sescashort}}		|在美国达拉斯托管		|在英国伦敦托管		|在澳大利亚悉尼托管 | 在区域中不可用 |
 |{{site.data.keyword.speechtotextshort}}	|在美国达拉斯托管		|在美国达拉斯托管		|在美国达拉斯托管 | 在德国法兰克福托管 |

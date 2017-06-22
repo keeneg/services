@@ -14,6 +14,9 @@ lastupdated: "2017-05-16"
 # Serviços por região
 {: #services_region}
 
+O {{site.data.keyword.Bluemix}} facilita a implementação, a hospedagem e os serviços de escala e apps. O foco pode ser a lógica e o design do aplicativo. 
+{:shortdesc}
+
 Nem todos os serviços estão disponíveis para compra em cada região do {{site.data.keyword.Bluemix_notm}}. E, mesmo se o serviço estiver disponível para compra na região, o serviço poderá estar hospedado em um local diferente. A tabela a seguir mostra os serviços que são fornecidos pela IBM.
 
 
@@ -63,7 +66,7 @@ Nem todos os serviços estão disponíveis para compra em cada região do {{site
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Hospedado em Sydney, Austrália | Não disponível na região |
 |{{site.data.keyword.dataworks_short}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.openwhisk}} | Hospedado em Dallas, EUA | Não disponível na região | Não disponível na região | Não disponível na região |
-|{{site.data.keyword.containerlong}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região |
+|{{site.data.keyword.containerlong}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Hospedado em Frankfurt, DE |
 |{{site.data.keyword.datastagefull}}		|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido		|Hospedado em Sydney, Austrália | Não disponível na região |
 |{{site.data.keyword.graphshort}}       |Hospedado em Dallas, EUA		|Hospedado em Dallas, EUA		|Não disponível na região | Não disponível na região |
 |{{site.data.keyword.mdmcloudfull}}		|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido		|Hospedado em Sydney, Austrália | Hospedado em Frankfurt, DE |
@@ -98,6 +101,7 @@ Nem todos os serviços estão disponíveis para compra em cada região do {{site
 |{{site.data.keyword.personalityinsightsshort}}	|Hospedado em Houston, EUA		|Hospedado em Houston, EUA		|Hospedado em Houston, EUA | Hospedado em Frankfurt, DE |
 |{{site.data.keyword.mobilepushshort}}				|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido			|Hospedado em Sydney, Austrália | Hospedado em Frankfurt, DE |
 |{{site.data.keyword.runbook_short}}				|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido			|Hospedado em Sydney, Austrália | Não disponível na região |
+|{{site.data.keyword.bpshort}}				|Hospedado em Dallas, EUA		| Não disponível na região | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.SecureGateway}}		|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido		|Hospedado em Sydney, Austrália | Não disponível na região |
 |{{site.data.keyword.sescashort}}		|Hospedado em Dallas, EUA		|Hospedado em Londres, Reino Unido		|Hospedado em Sydney, Austrália | Não disponível na região |
 |{{site.data.keyword.speechtotextshort}}	|Hospedado em Dallas, EUA		|Hospedado em Dallas, EUA		|Hospedado em Dallas, EUA | Hospedado em Frankfurt, DE |

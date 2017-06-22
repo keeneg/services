@@ -14,6 +14,10 @@ lastupdated: "2017-05-16"
 # Services par région
 {: #services_region}
 
+{{site.data.keyword.Bluemix}} simplifie l'implémentation, l'hébergement et la mise à l'échelle des services et des applications. Ainsi,
+vous pouvez vous consacrer à la logique et à la conception de l'application. 
+{:shortdesc}
+
 Les services ne sont pas tous disponibles à l'achat dans toutes les régions {{site.data.keyword.Bluemix_notm}}. De plus, même si le
 service est disponible à l'achat dans une région, il se peut qu'il soit hébergé ailleurs. Le tableau ci-dessous répertorie les services qui sont fournis par IBM.
 
@@ -64,7 +68,7 @@ service est disponible à l'achat dans une région, il se peut qu'il soit héber
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Hébergé à Dallas, aux Etats-Unis	| Hébergé à Londres, au Royaume-Uni	| Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.dataworks_short}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.openwhisk}} | Hébergé à Dallas, aux Etats-Unis | Indisponible dans la région | Indisponible dans la région | Indisponible dans la région |
-|{{site.data.keyword.containerlong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
+|{{site.data.keyword.containerlong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Hébergé à Francfort, Allemagne |
 |{{site.data.keyword.datastagefull}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.graphshort}}       |Hébergé à Dallas, aux Etats-Unis		|Hébergé à Dallas, aux Etats-Unis		|Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.mdmcloudfull}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Hébergé à Francfort, Allemagne |
@@ -99,6 +103,7 @@ service est disponible à l'achat dans une région, il se peut qu'il soit héber
 |{{site.data.keyword.personalityinsightsshort}}	|Hébergé à Houston, au Etats-Unis		|Hébergé à Houston, au Etats-Unis		|Hébergé à Houston, au Etats-Unis | Hébergé à Francfort, Allemagne |
 |{{site.data.keyword.mobilepushshort}}				|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni			|Hébergé à Sydney, en Australie | Hébergé à Francfort, Allemagne |
 |{{site.data.keyword.runbook_short}}				|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni			|Hébergé à Sydney, en Australie | Indisponible dans la région |
+|{{site.data.keyword.bpshort}}				|Hébergé à Dallas, aux Etats-Unis		| Indisponible dans la région | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.SecureGateway}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.sescashort}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.speechtotextshort}}	|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Dallas, aux Etats-Unis | Hébergé à Francfort, Allemagne |
